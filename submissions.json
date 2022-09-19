@@ -1,4 +1,21 @@
 {
+  "CF172717480": {
+    "contest_id": 1733,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1733/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rule of League",
+    "problem_url": "https://codeforces.com/contest/1733/problem/B",
+    "submission_id": "CF172717480",
+    "submission_url": "https://codeforces.com/contest/1733/submission/172717480",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Sep/19/2022 15:54"
+  },
   "CF172779013": {
     "contest_id": 228,
     "language": "GNU C++20 (64)",
