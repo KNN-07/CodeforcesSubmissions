@@ -30,7 +30,7 @@ void solve()
 {
     int n, m;
     cin >> n >> m;
-    if (max(n, m) == 1 || max(n, m) >= 4 || min(n, m) == 1)
+    if (max(n, m) <= 1 || max(n, m) >= 4 || min(n, m) == 1)
         cout << n << " " << m;
     else
         cout << n / 2 + 1 << " " << m / 2 + 1;
