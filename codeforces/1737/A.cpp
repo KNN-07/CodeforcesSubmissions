@@ -36,11 +36,10 @@ void solve()
     mms(ccount, 0);
     for (int i = 0; i < n; i++)
     {
-        ccount[s[i] - 'a']++; // Count the freq of the character
+        ccount[s[i] - 'a']++;
     }
     string ans = "";
     int lim = min(25, n / k);
-    // iterate through n/k element or all the alphabet
     for (int i = 0; i < lim; i++)
     {
         while (k - ans.size() > ccount[i])
@@ -48,15 +47,12 @@ void solve()
             ans += (i + 'a');
         }
     }
-    // if the current compartment didnt have the char add it
     char l = 'a' + lim;
     while (k > ans.size())
     {
         ans += l;
     }
-    // add the last char?
     reverse(ans.begin(), ans.end());
-    // reverse cuz we did it from right to left
     cout << ans;
 }
 
