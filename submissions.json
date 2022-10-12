@@ -1,4 +1,21 @@
 {
+  "CF175724324": {
+    "contest_id": 1741,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1741/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Funny Permutation",
+    "problem_url": "https://codeforces.com/contest/1741/problem/B",
+    "submission_id": "CF175724324",
+    "submission_url": "https://codeforces.com/contest/1741/submission/175724324",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/12/2022 07:19"
+  },
   "CF176124098": {
     "contest_id": 1742,
     "language": "GNU C++20 (64)",
