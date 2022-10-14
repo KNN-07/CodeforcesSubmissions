@@ -1,4 +1,20 @@
 {
+  "CF176124098": {
+    "contest_id": 1742,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1742/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/1742/problem/A",
+    "submission_id": "CF176124098",
+    "submission_url": "https://codeforces.com/contest/1742/submission/176124098",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/14/2022 09:10"
+  },
   "CF176124192": {
     "contest_id": 1742,
     "language": "GNU C++20 (64)",
