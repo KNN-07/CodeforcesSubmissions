@@ -1,4 +1,21 @@
 {
+  "CF176408158": {
+    "contest_id": 1746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1746/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Maxmina",
+    "problem_url": "https://codeforces.com/contest/1746/problem/A",
+    "submission_id": "CF176408158",
+    "submission_url": "https://codeforces.com/contest/1746/submission/176408158",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/15/2022 23:36"
+  },
   "CF176409970": {
     "contest_id": 1746,
     "language": "GNU C++20 (64)",
