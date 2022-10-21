@@ -1,4 +1,21 @@
 {
+  "CF177284217": {
+    "contest_id": 1749,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1749/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cowardly Rooks",
+    "problem_url": "https://codeforces.com/contest/1749/problem/A",
+    "submission_id": "CF177284217",
+    "submission_url": "https://codeforces.com/contest/1749/submission/177284217",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/21/2022 09:22"
+  },
   "CF177656621": {
     "contest_id": 1754,
     "language": "GNU C++20 (64)",
