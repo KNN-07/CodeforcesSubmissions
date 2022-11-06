@@ -34,8 +34,7 @@ void solve()
     vi a(n);
     for (auto &x : a)
         cin >> x;
-    // cout << ((a[0] > *min_element(a.begin() + 1, a.end())) ? "No" : "Yes");
-    cout << ((a[0] == 1) ? "Yes" : "No");
+    cout << ((a[0] > *min_element(a.begin() + 1, a.end())) ? "No" : "Yes");
 }
 
 int main()
