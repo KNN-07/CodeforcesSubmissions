@@ -1,4 +1,22 @@
 {
+  "CF182141331": {
+    "contest_id": 1401,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1401/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ternary Sequence",
+    "problem_url": "https://codeforces.com/contest/1401/problem/B",
+    "submission_id": "CF182141331",
+    "submission_url": "https://codeforces.com/contest/1401/submission/182141331",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Nov/22/2022 14:41"
+  },
   "CF182411372": {
     "contest_id": 456,
     "language": "GNU C++20 (64)",
