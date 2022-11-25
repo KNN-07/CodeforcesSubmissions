@@ -1,4 +1,21 @@
 {
+  "CF182546483": {
+    "contest_id": 1758,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1758/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Almost All Multiples",
+    "problem_url": "https://codeforces.com/contest/1758/problem/C",
+    "submission_id": "CF182546483",
+    "submission_url": "https://codeforces.com/contest/1758/submission/182546483",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Nov/25/2022 18:10"
+  },
   "CF182546631": {
     "contest_id": 1758,
     "language": "GNU C++20 (64)",
