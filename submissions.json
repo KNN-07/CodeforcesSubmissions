@@ -1,4 +1,21 @@
 {
+  "CF182620619": {
+    "contest_id": 1722,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1722/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Word Game",
+    "problem_url": "https://codeforces.com/contest/1722/problem/C",
+    "submission_id": "CF182620619",
+    "submission_url": "https://codeforces.com/contest/1722/submission/182620619",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2022 09:11"
+  },
   "CF182622138": {
     "contest_id": 1717,
     "language": "GNU C++20 (64)",
