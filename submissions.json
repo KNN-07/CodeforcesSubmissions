@@ -1,4 +1,20 @@
 {
+  "CF186081035": {
+    "contest_id": 478,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/478/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Table Decorations",
+    "problem_url": "https://codeforces.com/contest/478/problem/C",
+    "submission_id": "CF186081035",
+    "submission_url": "https://codeforces.com/contest/478/submission/186081035",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Dec/20/2022 08:54"
+  },
   "CF186469187": {
     "contest_id": 911,
     "language": "GNU C++20 (64)",
