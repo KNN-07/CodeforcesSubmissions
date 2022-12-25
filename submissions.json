@@ -1,4 +1,20 @@
 {
+  "CF186628085": {
+    "contest_id": 1772,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1772/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/1772/problem/E",
+    "submission_id": "CF186628085",
+    "submission_url": "https://codeforces.com/contest/1772/submission/186628085",
+    "tags": [
+      "games",
+      "*1700"
+    ],
+    "timestamp": "Dec/25/2022 04:00"
+  },
   "CF186628102": {
     "contest_id": 1772,
     "language": "GNU C++20 (64)",

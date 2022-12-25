@@ -41,11 +41,11 @@ void solve()
     forinc(i, 0, n - 1)
     {
         if (z[i] != i + 1 && z[i] != n - i)
-            c++;
+            c += 1;
         else if (z[i] != i + 1)
-            a++;
+            a += 1;
         else if (z[i] != n - i)
-            b++;
+            b += 1;
     }
     if (a + c <= b)
         cout << "First";
