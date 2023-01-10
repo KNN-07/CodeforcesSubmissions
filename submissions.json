@@ -1,4 +1,21 @@
 {
+  "CF188768367": {
+    "contest_id": 1775,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1775/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Human Equation",
+    "problem_url": "https://codeforces.com/contest/1775/problem/E",
+    "submission_id": "CF188768367",
+    "submission_url": "https://codeforces.com/contest/1775/submission/188768367",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Jan/10/2023 21:48"
+  },
   "CF189268310": {
     "contest_id": 25,
     "language": "GNU C++20 (64)",
