@@ -38,19 +38,13 @@ void solve()
     for (auto &x : pts)
         cin >> x;
     vector<vi> dp(2, vi(n + 1, 1e9));
-    // dp[0][j] : minimum number of skip point for player 0 to kill the jth boss
-    // dp[1][j] : minimum number of skip point for player 1 to kill the jth boss
     dp[1][0] = 0;
-    // Basecase : player 1 use 0 pts to kill the 0th boss, player 0 start first
     forinc(j, 0, n - 1)
     {
-        // Player 1 kill the previous boss or we need to kill the boss
         dp[0][j + 1] = min(dp[0][j + 1], dp[1][j] + pts[j]);
         dp[1][j + 1] = min(dp[1][j + 1], dp[0][j]);
-        // Two player switch on the previous move
         if (j + 2 <= n)
         {
-            // Two player switch on the previous 2 moves
             dp[0][j + 2] = min(dp[0][j + 2], dp[1][j] + pts[j] + pts[j + 1]);
             dp[1][j + 2] = min(dp[1][j + 2], dp[0][j]);
         }
