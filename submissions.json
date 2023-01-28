@@ -1,4 +1,22 @@
 {
+  "CF190915346": {
+    "contest_id": 1790,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1790/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Taisia and Dice",
+    "problem_url": "https://codeforces.com/contest/1790/problem/B",
+    "submission_id": "CF190915346",
+    "submission_url": "https://codeforces.com/contest/1790/submission/190915346",
+    "tags": [
+      "greedy",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2023 01:40"
+  },
   "CF190915622": {
     "contest_id": 1790,
     "language": "GNU C++20 (64)",
