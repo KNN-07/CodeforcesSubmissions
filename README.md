@@ -12,5 +12,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-2 | [B - The Bits](https://codeforces.com/contest/1017/problem/B) | [GNU C++20 (64)](./codeforces/1017/B.cpp) | `implementation` `math` `*1200` | Mar/12/2023 02:30 | 
-1 | [A - XXXXX](https://codeforces.com/contest/1364/problem/A) | [GNU C++20 (64)](./codeforces/1364/A.cpp) | `brute force` `data structures` `number theory` `two pointers` `*1200` | Mar/12/2023 02:14 | 
+3 | [B - The Bits](https://codeforces.com/contest/1017/problem/B) | [GNU C++20 (64)](./codeforces/1017/B.cpp) | `implementation` `math` `*1200` | Mar/12/2023 02:30 | 
+2 | [A - XXXXX](https://codeforces.com/contest/1364/problem/A) | [GNU C++20 (64)](./codeforces/1364/A.cpp) | `brute force` `data structures` `number theory` `two pointers` `*1200` | Mar/12/2023 02:14 | 
+1 | [N - Number Reduction](https://codeforces.com/contest/1765/problem/N) | [GNU C++20 (64)](./codeforces/1765/N.cpp) | `greedy` `*1500` | Mar/12/2023 02:08 | 
