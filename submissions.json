@@ -1,4 +1,21 @@
 {
+  "CF197004107": {
+    "contest_id": 1017,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1017/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Bits",
+    "problem_url": "https://codeforces.com/contest/1017/problem/B",
+    "submission_id": "CF197004107",
+    "submission_url": "https://codeforces.com/contest/1017/submission/197004107",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Mar/12/2023 09:30"
+  },
   "CF198362139": {
     "contest_id": 466,
     "language": "GNU C++20 (64)",
