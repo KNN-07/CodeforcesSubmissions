@@ -1,4 +1,24 @@
 {
+  "CF199863681": {
+    "contest_id": 1381,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1381/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Prefix Flip (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1381/problem/A2",
+    "submission_id": "CF199863681",
+    "submission_url": "https://codeforces.com/contest/1381/submission/199863681",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Mar/31/2023 00:24"
+  },
   "CF199863729": {
     "contest_id": 1381,
     "language": "GNU C++20 (64)",
